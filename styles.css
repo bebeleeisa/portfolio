@@ -1,8 +1,8 @@
 /* Base Styles */
 :root {
-    --primary-color: #4e54c8;
-    --secondary-color: #8f94fb;
-    --dark-color: #2a2d3e;
+    --primary-color: #309106;
+    --secondary-color: #44c630;
+    --dark-color: #edffee;
     --light-color: #f5f5f7;
     --text-color: #333;
     --text-light: #666;
@@ -13,8 +13,8 @@
 }
 
 [data-theme="dark"] {
-    --primary-color: #6a3093;
-    --secondary-color: #a044ff;
+    --primary-color: #27952b;
+    --secondary-color: #31ad33;
     --dark-color: #121212;
     --light-color: #1e1e1e;
     --text-color: #f5f5f5;
